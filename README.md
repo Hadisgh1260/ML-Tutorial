@@ -21,8 +21,8 @@ Each lesson follows this structure:
 Each phase ends with:
 > 💡 **Think Further** — open-ended questions, research topics, or a mini-project
 > to solidify your understanding before moving on.
->
-> ## 🗺️ Course Roadmap
+
+## 🗺️ Course Roadmap
 
 | Phase | Topic | Status |
 |-------|-------|--------|

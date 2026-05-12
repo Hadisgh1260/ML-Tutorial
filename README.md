@@ -7,7 +7,7 @@ Step-by-step Machine Learning tutorial for Python developers
 ## 📖 About
 
 This course is designed for Python developers who want to learn
-Machine Learning from the ground up — no prior ML knowledge required.
+Machine Learning.
 
 Each lesson follows this structure:
 

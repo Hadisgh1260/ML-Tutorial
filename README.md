@@ -21,3 +21,14 @@ Each lesson follows this structure:
 Each phase ends with:
 > 💡 **Think Further** — open-ended questions, research topics, or a mini-project
 > to solidify your understanding before moving on.
+>
+> ## 🗺️ Course Roadmap
+
+| Phase | Topic | Status |
+|-------|-------|--------|
+| 01 | Introduction to ML | ✅ |
+| 02 | Supervised Learning | ⏳ |
+| 03 | Unsupervised Learning | ⏳ |
+| 04 | Regression | ⏳ |
+| 05 | Classification | ⏳ |
+| 06 | Clustering | ⏳ |

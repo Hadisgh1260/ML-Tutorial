@@ -32,3 +32,18 @@ Each phase ends with:
 | 04 | Regression | ⏳ |
 | 05 | Classification | ⏳ |
 | 06 | Clustering | ⏳ |
+
+## ✅ Prerequisites
+
+- Python basics (variables, loops, functions)
+- Familiarity with NumPy and Pandas
+- Basic math (algebra, statistics)
+
+
+## 🛠️ Installation
+
+1. Python 3.8+
+2. VS Code
+3. Required libraries:
+
+pip install numpy pandas matplotlib 

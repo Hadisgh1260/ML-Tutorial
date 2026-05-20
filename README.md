@@ -27,8 +27,8 @@ Each phase ends with:
 | Phase | Topic | Status |
 |-------|-------|--------|
 | 01 | Introduction to ML | ✅ |
-| 02 | Supervised Learning | ⏳ |
-| 03 | Unsupervised Learning | ⏳ |
+| 02 | Supervised Learning | ✅ |
+| 03 | Unsupervised Learning | ✅ |
 | 04 | Regression | ⏳ |
 | 05 | Classification | ⏳ |
 | 06 | Clustering | ⏳ |

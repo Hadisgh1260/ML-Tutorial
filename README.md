@@ -40,10 +40,11 @@ Each phase ends with:
 - Basic math (algebra, statistics)
 
 
-## 🛠️ Installation
+## 🛠️ ## Requirements
 
-1. Python 3.8+
-2. VS Code
-3. Required libraries:
+### Python version
+Python 3.10
 
-pip install numpy pandas matplotlib 
+### Install dependencies
+```bash
+pip install -r requirements.txt
